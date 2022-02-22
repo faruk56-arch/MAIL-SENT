@@ -1,0 +1,27 @@
+.post-title {
+    border: 1px solid rgb(27, 25, 25);
+    text-align: center;
+}
+
+.post-description {
+    border: 1px solid rgb(27, 25, 25);
+    margin-top: 4rem;
+    background-color: rosybrown;
+}
+
+.comment-post {
+    border: 1px solid rgb(27, 25, 25);
+    margin-top: 4rem;
+    background-color: rgb(211, 203, 203);
+}
+
+.comment-lien {
+    text-decoration: none;
+    padding: 0.4rem;
+    background-color: rgb(119, 74, 74);
+    color: white;
+
+
+
+}
+
